@@ -1,0 +1,14 @@
+{
+  "name": "Payroll — Employee & Salary Dashboard",
+  "short_name": "Payroll",
+  "description": "Manage employees, candidates and monthly salaries.",
+  "start_url": "/dashboard",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f0a1f",
+  "theme_color": "#4f46e5",
+  "icons": [
+    { "src": "/app-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/app-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
